@@ -1,0 +1,60 @@
+* {
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #1d1d1d;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: black;
+}
+
+header img {
+  margin: 1rem;
+}
+
+.covid-number p {
+  color: white;
+}
+
+.weather p {
+  color: white;
+}
+
+.pgm-team {
+  border-right: 1px solid #585858;
+  height: 41rem;
+  width: 15.5rem;
+  float: left;
+}
+
+.pgm-team h2 {
+  background: #0099f8;
+  width: max-content;
+  padding: 0.5rem 1rem;
+  padding-right: 7rem;
+  margin: 0;
+}
+
+.github-users {
+  border-left: 1px solid #585858;
+  height: 41rem;
+  width: 16.9rem;
+  float: right;
+}
+
+.github-users h2 {
+  background: #0099f8;
+  width: max-content;
+  padding: 0.5rem 1rem;
+  padding-right: 7rem;
+  margin: 0;
+  float: right;
+}
+
+.pgm-users-list {
+  color: white;
+}
